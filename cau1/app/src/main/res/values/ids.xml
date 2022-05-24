@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="toolbar" type="id" />
+    <item name="chieudai" type="id" />
+    <item name="chieucao" type="id" />
+    <item name="day" type="id" />
+    <item name="tinhChuVi" type="id" />
+    <item name="tinhDienTich" type="id" />
+    <item name="ketqua" type="id" />
+    <item name="fab" type="id" />
+</resources>
